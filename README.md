@@ -54,8 +54,10 @@ pip install pktron[gpu]          # NVIDIA GPU acceleration
 pip install pktron[chemistry]    # Quantum chemistry suite
 pip install pktron[ml]           # Quantum machine learning
 pip install pktron[full]         # Full package
+```bash
 
 ⚡ Core Features
+
 🧠 Advanced Quantum Simulators (9)
 Statevector (GPU/MPI accelerated, BIG-ENDIAN)
 Density Matrix (Lindblad + Kraus operators)
@@ -66,6 +68,7 @@ Clifford (O(n²) stabilizer formalism)
 Tensor Network (auto-optimized)
 Quantum Trajectory (Monte Carlo)
 Pulse-Level Simulation (Trotter evolution)
+
 🔬 Quantum Algorithms (18+)
 VQE (Pauli decomposition)
 QAOA
@@ -80,6 +83,7 @@ Quantum Annealing
 Simon’s Algorithm
 Deutsch–Jozsa
 And more
+
 🛡️ Quantum Error Correction
 Steane [[7,1,3]] Code
 Surface Code (2D lattice)
@@ -87,18 +91,21 @@ Repetition Codes
 Bacon-Shor Codes
 Color Codes
 Full syndrome extraction & correction circuits
+
 ⚡ Error Mitigation
 Zero Noise Extrapolation (ZNE)
 Probabilistic Error Cancellation (PEC)
 Clifford Data Regression (CDR)
 Dynamical Decoupling (XY4 / XY8 / UDD)
 Readout Error Mitigation
+
 🧪 Quantum Chemistry
 Molecules: H₂, LiH, H₂O, BeH₂
 Jordan-Wigner & Bravyi-Kitaev transforms
 Full-CI Solver
 Excited States
 UCC Ansatz
+
 🤖 Quantum Machine Learning
 Quantum Reinforcement Learning (QRL)
 QGAN
@@ -107,12 +114,14 @@ QAutoencoders
 QCNN
 Quantum Transfer Learning
 Quantum Federated Learning (QFL)
+
 🔐 Quantum Cryptography
 BB84 Protocol
 E91 Protocol
 B92 Protocol
 Quantum Random Number Generator
 Post-Quantum Integration
+
 ⚙️ Hardware & Compilation
 U3 + CX decomposition
 SABRE routing
@@ -120,19 +129,21 @@ DRAG pulses
 Cross-resonance pulses
 Mid-circuit measurement
 Adaptive circuits
+
 📊 Benchmarking
 Quantum Volume (HOG protocol)
 Randomized Benchmarking
 Cross-Entropy Benchmarking (XEB)
 CLOPS
+
 💡 Why PKTron?
 ✅ All-in-One Framework (Simulation + Algorithms + QEC + ML + Chemistry)
 ✅ Production-Grade Implementations (Not toy models)
 ✅ Mathematically Accurate
 ✅ Lightweight & Fast
 ✅ Minimal dependencies for core systems
-🌐 Vision
 
+🌐 Vision
 PKTron aims to push quantum computing forward by making high-end research tools accessible in one unified framework, enabling:
 
 Researchers
@@ -147,15 +158,12 @@ to build, test, and scale quantum solutions efficiently.
 PKTron represents a major step forward in deep-tech innovation emerging from Pakistan, proving that world-class quantum systems can be built independently with strong engineering execution.
 
 📌 Version
-
 Current Release: v3.0.3
 
 📜 License
-
 MIT License
 
 ⭐ Support
-
 If you find PKTron useful:
 
 ⭐ Star the repository
