@@ -4,6 +4,7 @@ Paktron Version 3.0.3
 # 🚀 PKTron v3.0.3  
 ### AI-Powered Quantum Computing Framework  
 **#1 South Asia | #1 Asia | Top #5 Globally (Feature-Based Ranking)**  
+https://pypi.org/project/pktron/3.0.3/ - More info
 
 ---
 
